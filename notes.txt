@@ -1,0 +1,2 @@
+TO SCROLL TO A PARTICULAR PART OF PAGE
+onClick=document.getElementbyId('').scroolIntoView();
